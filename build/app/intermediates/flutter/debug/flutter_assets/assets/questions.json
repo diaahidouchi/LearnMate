@@ -1,0 +1,482 @@
+[
+    {
+      "question": "What is the synonym of 'happy'?",
+      "answers": ["Sad", "Joyful", "Angry", "Bored"],
+      "correctAnswer": "Joyful"
+    },
+    {
+      "question": "Which word is a noun?",
+      "answers": ["Quickly", "Running", "Happiness", "Swim"],
+      "correctAnswer": "Happiness"
+    },
+    {
+      "question": "Which of these words is an adjective?",
+      "answers": ["Apple", "Quick", "Swimming", "Run"],
+      "correctAnswer": "Quick"
+    },
+    {
+      "question": "What is the antonym of 'fast'?",
+      "answers": ["Quick", "Slow", "Rapid", "Hurry"],
+      "correctAnswer": "Slow"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answers": ["Berlin", "Madrid", "Paris", "London"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Which of these words is a verb?",
+      "answers": ["Happiness", "Running", "Quick", "Bored"],
+      "correctAnswer": "Running"
+    },
+    {
+      "question": "Which word means 'the opposite of light'?",
+      "answers": ["Bright", "Dark", "Color", "Transparent"],
+      "correctAnswer": "Dark"
+    },
+    {
+      "question": "Which word is the opposite of 'hot'?",
+      "answers": ["Cold", "Warm", "Cool", "Burning"],
+      "correctAnswer": "Cold"
+    },
+    {
+      "question": "What does 'happy' mean?",
+      "answers": ["Sad", "Joyful", "Angry", "Bored"],
+      "correctAnswer": "Joyful"
+    },
+    {
+      "question": "Which of these is a fruit?",
+      "answers": ["Tomato", "Carrot", "Potato", "Cucumber"],
+      "correctAnswer": "Tomato"
+    },
+    {
+      "question": "What is the synonym of 'beautiful'?",
+      "answers": ["Ugly", "Pretty", "Boring", "Strong"],
+      "correctAnswer": "Pretty"
+    },
+    {
+      "question": "Which one is a color?",
+      "answers": ["Blue", "Square", "Circle", "Rectangle"],
+      "correctAnswer": "Blue"
+    },
+    {
+      "question": "Which of these is a verb?",
+      "answers": ["Quickly", "Happiness", "Running", "Bored"],
+      "correctAnswer": "Running"
+    },
+    {
+      "question": "What is the synonym of 'big'?",
+      "answers": ["Small", "Large", "Heavy", "Light"],
+      "correctAnswer": "Large"
+    },
+    {
+      "question": "What is the antonym of 'strong'?",
+      "answers": ["Weak", "Tall", "Fast", "Slow"],
+      "correctAnswer": "Weak"
+    },
+    {
+      "question": "Which word is a noun?",
+      "answers": ["Beautifully", "Running", "Happiness", "Quick"],
+      "correctAnswer": "Happiness"
+    },
+    {
+      "question": "Which of these is a verb?",
+      "answers": ["Quick", "Happiness", "Running", "Bored"],
+      "correctAnswer": "Running"
+    },
+    {
+      "question": "What is the synonym of 'sad'?",
+      "answers": ["Happy", "Joyful", "Depressed", "Bored"],
+      "correctAnswer": "Depressed"
+    },
+    {
+      "question": "Which of these is a color?",
+      "answers": ["Red", "Dog", "Fish", "Car"],
+      "correctAnswer": "Red"
+    },
+    {
+      "question": "What is the synonym of 'angry'?",
+      "answers": ["Sad", "Joyful", "Mad", "Bored"],
+      "correctAnswer": "Mad"
+    },
+    {
+      "question": "Which word means 'the opposite of large'?",
+      "answers": ["Small", "Big", "Heavy", "Light"],
+      "correctAnswer": "Small"
+    },
+    {
+      "question": "Which one is a fruit?",
+      "answers": ["Apple", "Carrot", "Potato", "Cucumber"],
+      "correctAnswer": "Apple"
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "answers": ["Madrid", "Barcelona", "Valencia", "Seville"],
+      "correctAnswer": "Madrid"
+    },
+    {
+      "question": "Which of these words is an adjective?",
+      "answers": ["Quick", "Quickly", "Run", "Swim"],
+      "correctAnswer": "Quick"
+    },
+    {
+      "question": "Which word is a verb?",
+      "answers": ["Happiness", "Running", "Angry", "Bored"],
+      "correctAnswer": "Running"
+    },
+    {
+      "question": "What is the antonym of 'high'?",
+      "answers": ["Low", "Fast", "Quick", "Up"],
+      "correctAnswer": "Low"
+    },
+    {
+      "question": "What does 'angry' mean?",
+      "answers": ["Sad", "Joyful", "Mad", "Bored"],
+      "correctAnswer": "Mad"
+    },
+    {
+      "question": "Which word is a noun?",
+      "answers": ["Quickly", "Run", "Happiness", "Swim"],
+      "correctAnswer": "Happiness"
+    },
+    {
+      "question": "Which word is an adjective?",
+      "answers": ["Quick", "Running", "Happiness", "Swim"],
+      "correctAnswer": "Quick"
+    },
+    {
+      "question": "What is the antonym of 'short'?",
+      "answers": ["Tall", "Quick", "Slow", "Big"],
+      "correctAnswer": "Tall"
+    },
+    {
+      "question": "What is the capital of the USA?",
+      "answers": ["New York", "Los Angeles", "Washington D.C.", "Chicago"],
+      "correctAnswer": "Washington D.C."
+    },
+    {
+      "question": "Which word means 'to go quickly'?",
+      "answers": ["Walk", "Run", "Sit", "Sleep"],
+      "correctAnswer": "Run"
+    },
+    {
+      "question": "What is the opposite of 'old'?",
+      "answers": ["Young", "Slow", "Big", "Tall"],
+      "correctAnswer": "Young"
+    },
+    {
+      "question": "Which of these is a vegetable?",
+      "answers": ["Carrot", "Apple", "Banana", "Orange"],
+      "correctAnswer": "Carrot"
+    },
+    {
+      "question": "What is the synonym of 'brave'?",
+      "answers": ["Cowardly", "Fearless", "Weak", "Small"],
+      "correctAnswer": "Fearless"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "answers": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
+      "correctAnswer": "Berlin"
+    },
+    {
+      "question": "Which word is a noun?",
+      "answers": ["Happiness", "Quickly", "Run", "Swimming"],
+      "correctAnswer": "Happiness"
+    },
+    {
+      "question": "What is the synonym of 'strong'?",
+      "answers": ["Weak", "Powerful", "Slow", "Quick"],
+      "correctAnswer": "Powerful"
+    },
+    {
+      "question": "Which of these is an animal?",
+      "answers": ["Cat", "Table", "Car", "Building"],
+      "correctAnswer": "Cat"
+    },
+    {
+      "question": "Which word is an adverb?",
+      "answers": ["Quick", "Quickly", "Happiness", "Angry"],
+      "correctAnswer": "Quickly"
+    },
+    {
+      "question": "Which one is a color?",
+      "answers": ["Red", "Fast", "Heavy", "Bored"],
+      "correctAnswer": "Red"
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "answers": ["Rome", "Milan", "Venice", "Florence"],
+      "correctAnswer": "Rome"
+    },
+    {
+      "question": "Which word is a noun?",
+      "answers": ["Quickly", "Running", "Happiness", "Strong"],
+      "correctAnswer": "Happiness"
+    },
+    {
+      "question": "What is the antonym of 'heavy'?",
+      "answers": ["Light", "Big", "Tall", "Fast"],
+      "correctAnswer": "Light"
+    },
+    {
+      "question": "Which of these is a fruit?",
+      "answers": ["Banana", "Carrot", "Potato", "Cucumber"],
+      "correctAnswer": "Banana"
+    },
+    {
+      "question": "Which word means 'the opposite of cold'?",
+      "answers": ["Warm", "Cool", "Hot", "Frozen"],
+      "correctAnswer": "Warm"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answers": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "correctAnswer": "Ottawa"
+    },
+    {
+      "question": "Which word is an adjective?",
+      "answers": ["Quick", "Running", "Happiness", "Swim"],
+      "correctAnswer": "Quick"
+    },
+    {
+      "question": "Which of these is a profession?",
+      "answers": ["Teacher", "Car", "House", "Apple"],
+      "correctAnswer": "Teacher"
+    },
+    {
+      "question": "What is the synonym of 'calm'?",
+      "answers": ["Angry", "Peaceful", "Loud", "Excited"],
+      "correctAnswer": "Peaceful"
+    },
+    
+    {
+        "question": "What is the opposite of 'happy'?",
+        "answers": ["Sad", "Joyful", "Excited", "Bored"],
+        "correctAnswer": "Sad"
+      },
+      {
+        "question": "Which word is a synonym of 'quick'?",
+        "answers": ["Fast", "Slow", "Heavy", "Big"],
+        "correctAnswer": "Fast"
+      },
+      {
+        "question": "Which of these is a continent?",
+        "answers": ["Africa", "China", "Germany", "USA"],
+        "correctAnswer": "Africa"
+      },
+      {
+        "question": "Which of these is a season?",
+        "answers": ["Spring", "Monday", "December", "Night"],
+        "correctAnswer": "Spring"
+      },
+      {
+        "question": "What is the opposite of 'high'?",
+        "answers": ["Low", "Fast", "Strong", "Heavy"],
+        "correctAnswer": "Low"
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "answers": ["Tokyo", "Kyoto", "Osaka", "Sapporo"],
+        "correctAnswer": "Tokyo"
+      },
+      {
+        "question": "Which of these is a vegetable?",
+        "answers": ["Carrot", "Apple", "Banana", "Grape"],
+        "correctAnswer": "Carrot"
+      },
+      {
+        "question": "What is the opposite of 'beautiful'?",
+        "answers": ["Ugly", "Big", "Strong", "Weak"],
+        "correctAnswer": "Ugly"
+      },
+      {
+        "question": "Which of these is an animal?",
+        "answers": ["Dog", "Chair", "Pencil", "Window"],
+        "correctAnswer": "Dog"
+      },
+      {
+        "question": "Which of these is a country?",
+        "answers": ["Canada", "New York", "Amazon", "Pacific"],
+        "correctAnswer": "Canada"
+      },
+      {
+        "question": "What is the synonym of 'large'?",
+        "answers": ["Huge", "Small", "Tiny", "Short"],
+        "correctAnswer": "Huge"
+      },
+      {
+        "question": "Which word is an adverb?",
+        "answers": ["Quickly", "Quick", "Running", "Happiness"],
+        "correctAnswer": "Quickly"
+      },
+      {
+        "question": "Which of these is a planet?",
+        "answers": ["Earth", "Sun", "Star", "Moon"],
+        "correctAnswer": "Earth"
+      },
+      {
+        "question": "What is the synonym of 'angry'?",
+        "answers": ["Mad", "Joyful", "Sad", "Excited"],
+        "correctAnswer": "Mad"
+      },
+      {
+        "question": "Which of these is an object?",
+        "answers": ["Book", "Swimming", "Happiness", "Quick"],
+        "correctAnswer": "Book"
+      },
+      {
+        "question": "What is the opposite of 'strong'?",
+        "answers": ["Weak", "Fast", "Big", "Tall"],
+        "correctAnswer": "Weak"
+      },
+      {
+        "question": "What is the capital of Russia?",
+        "answers": ["Moscow", "St. Petersburg", "Kyiv", "Vladivostok"],
+        "correctAnswer": "Moscow"
+      },
+      {
+        "question": "Which of these words is a noun?",
+        "answers": ["Quickly", "Run", "Joy", "Sleep"],
+        "correctAnswer": "Joy"
+      },
+      {
+        "question": "What is the synonym of 'cold'?",
+        "answers": ["Chilly", "Hot", "Warm", "Dry"],
+        "correctAnswer": "Chilly"
+      },
+      {
+        "question": "Which of these is a profession?",
+        "answers": ["Doctor", "Table", "Computer", "Car"],
+        "correctAnswer": "Doctor"
+      },
+      {
+        "question": "What is the opposite of 'night'?",
+        "answers": ["Day", "Moon", "Sleep", "Dark"],
+        "correctAnswer": "Day"
+      },
+      {
+        "question": "What is the synonym of 'strong'?",
+        "answers": ["Powerful", "Weak", "Slow", "Soft"],
+        "correctAnswer": "Powerful"
+      },
+      {
+        "question": "Which of these is an adjective?",
+        "answers": ["Happy", "Jump", "Run", "Sing"],
+        "correctAnswer": "Happy"
+      },
+      {
+        "question": "Which of these is a fruit?",
+        "answers": ["Orange", "Potato", "Carrot", "Tomato"],
+        "correctAnswer": "Orange"
+      },
+      {
+        "question": "What is the antonym of 'happy'?",
+        "answers": ["Sad", "Excited", "Angry", "Fearful"],
+        "correctAnswer": "Sad"
+      },
+      {
+        "question": "What is the capital of Italy?",
+        "answers": ["Rome", "Milan", "Venice", "Florence"],
+        "correctAnswer": "Rome"
+      },
+      {
+        "question": "Which of these is a color?",
+        "answers": ["Red", "Car", "House", "Table"],
+        "correctAnswer": "Red"
+      },
+      {
+        "question": "Which of these is a type of tree?",
+        "answers": ["Oak", "Steel", "Stone", "Glass"],
+        "correctAnswer": "Oak"
+      },
+      {
+        "question": "Which of these is a country?",
+        "answers": ["Germany", "Japan", "Brazil", "Mexico"],
+        "correctAnswer": "Germany"
+      },
+      {
+        "question": "What is the opposite of 'empty'?",
+        "answers": ["Full", "Large", "Tall", "Quick"],
+        "correctAnswer": "Full"
+      },
+      {
+        "question": "Which of these is a flower?",
+        "answers": ["Rose", "Carrot", "Potato", "Tomato"],
+        "correctAnswer": "Rose"
+      },
+      {
+        "question": "Which word is a verb?",
+        "answers": ["Jump", "Quick", "Sad", "Heavy"],
+        "correctAnswer": "Jump"
+      },
+      {
+        "question": "What is the synonym of 'small'?",
+        "answers": ["Tiny", "Big", "Fast", "Strong"],
+        "correctAnswer": "Tiny"
+      },
+      {
+        "question": "Which of these is a metal?",
+        "answers": ["Gold", "Wood", "Plastic", "Cotton"],
+        "correctAnswer": "Gold"
+      },
+      {
+        "question": "What is the synonym of 'bright'?",
+        "answers": ["Shiny", "Dark", "Dull", "Heavy"],
+        "correctAnswer": "Shiny"
+      },
+      {
+        "question": "What is the opposite of 'big'?",
+        "answers": ["Small", "Tall", "Heavy", "Fast"],
+        "correctAnswer": "Small"
+      },
+      {
+        "question": "Which of these is a language?",
+        "answers": ["Spanish", "Africa", "Car", "Apple"],
+        "correctAnswer": "Spanish"
+      },
+      {
+        "question": "Which of these is a synonym for 'fast'?",
+        "answers": ["Quick", "Slow", "Tall", "Big"],
+        "correctAnswer": "Quick"
+      },
+      {
+        "question": "What is the opposite of 'up'?",
+        "answers": ["Down", "Tall", "Big", "Slow"],
+        "correctAnswer": "Down"
+      },
+      {
+        "question": "Which of these is a tree?",
+        "answers": ["Pine", "Rock", "Car", "River"],
+        "correctAnswer": "Pine"
+      },
+      {
+        "question": "Which of these is a capital city?",
+        "answers": ["Berlin", "Hamburg", "Cologne", "Munich"],
+        "correctAnswer": "Berlin"
+      },
+      {
+        "question": "What is the synonym of 'easy'?",
+        "answers": ["Simple", "Hard", "Difficult", "Strong"],
+        "correctAnswer": "Simple"
+      },
+      {
+        "question": "Which of these is a season?",
+        "answers": ["Winter", "Monday", "June", "Breakfast"],
+        "correctAnswer": "Winter"
+      },
+      {
+        "question": "Which word is an adverb?",
+        "answers": ["Quickly", "Quick", "Jump", "Angry"],
+        "correctAnswer": "Quickly"
+      },
+      {
+        "question": "What is the opposite of 'soft'?",
+        "answers": ["Hard", "Fast", "Tall", "Heavy"],
+        "correctAnswer": "Hard"
+      }
+    ]
+      
+  
+
+  
